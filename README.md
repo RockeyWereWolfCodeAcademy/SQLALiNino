@@ -1,7 +1,7 @@
 # SQL "Ali Nino DB TASK"
 
 ## Task Description:
-In this task we tried to create simple copy of (Ali Nino library website)[https://alinino.az] database
+In this task we tried to create simple copy of [Ali Nino library website](https://alinino.az) database
 
 Db name - AliNinoDb
 
